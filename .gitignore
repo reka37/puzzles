@@ -1,0 +1,8 @@
+vendor/
+output/
+admin/
+api/dbSettings.php
+api/content/
+api/Crypt/
+api/JWT/
+config.php

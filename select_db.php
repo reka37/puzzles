@@ -1,0 +1,3 @@
+<?php
+R::addDatabase( 'DERATISATION', DERATISATION_PATH, USER, PASS);
+?>
